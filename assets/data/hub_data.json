@@ -1,0 +1,1177 @@
+{
+  "genotype": {
+    "genes": [
+      {
+        "id": "slc6a4",
+        "symbol": "SLC6A4",
+        "full_name": "Serotonin Transporter Gene",
+        "summary": "anxiety and emotional regulation.",
+        "score": 66,
+        "accent": "#FFB300",
+        "narrative": [
+          "Your SLC6A4 genotype score of 66% indicates a moderate efficiency in serotonin transport. This gene plays a vital role in regulating serotonin levels in the brain, influencing mood, emotional balance, and how you respond to stress.",
+          "A moderate score suggests that while your serotonin system is functional, you may experience mild sensitivity to stress or fluctuating moods under challenging circumstances. Supporting your mental wellness through stress management techniques, mindfulness, and a balanced lifestyle can help optimize your serotonin function."
+        ],
+        "about": [
+          "SLC6A4 is a gene that encodes the serotonin transporter protein. This protein helps transport serotonin (a neurotransmitter known as the \"feel-good chemical\") from the spaces between nerve cells back into the cells. The SLC6A4 gene plays an important role in mood regulation, stress response, and emotional well-being."
+        ],
+        "strengths": [
+          {
+            "label": "Heart",
+            "percent": 76.96
+          },
+          {
+            "label": "kidney",
+            "percent": 89.77
+          },
+          {
+            "label": "Brain",
+            "percent": 8.78
+          },
+          {
+            "label": "intestine",
+            "percent": 72.22
+          },
+          {
+            "label": "HCV Antibody",
+            "percent": 88.05
+          }
+        ],
+        "weaknesses": [
+          {
+            "label": "Teeth",
+            "percent": 23.05
+          },
+          {
+            "label": "Skin",
+            "percent": 34.05
+          },
+          {
+            "label": "Eyes",
+            "percent": 59.05
+          },
+          {
+            "label": "HCV Antibody",
+            "percent": 22.05
+          }
+        ],
+        "organ_details": [
+          {
+            "organ": "Heart",
+            "score": 76.9,
+            "status_label": "optimal",
+            "marker_label": "Moderate",
+            "marker_value": "36.7",
+            "impacted_by": "LDL Cholesterol",
+            "bands": [
+              {
+                "label": "Very Low",
+                "range_text": "< 4.46 mcg/dL",
+                "color": "#FF4B3E"
+              },
+              {
+                "label": "Low",
+                "range_text": "< 8.46 mcg/dL",
+                "color": "#FF9E8A"
+              },
+              {
+                "label": "Moderate",
+                "range_text": "4.46 mcg/dL",
+                "color": "#FFE500"
+              },
+              {
+                "label": "Optimal",
+                "range_text": "< 6.46 mcg/dL",
+                "color": "#D6D520"
+              },
+              {
+                "label": "High",
+                "range_text": "88.46 -9.2 mcg/dL",
+                "color": "#8CC63F"
+              },
+              {
+                "label": "Very High",
+                "range_text": "<10.46 -22.0 mg/dL",
+                "color": "#2FB457"
+              }
+            ],
+            "impacted_parameters": [
+              {
+                "title": "Heart Rate Variability (HRV)",
+                "description": "SLC6A4 gene variations can influence stress response, indirectly affecting HRV and overall heart adaptability."
+              },
+              {
+                "title": "Resting Heart Rate (RHR)",
+                "description": "Altered serotonin transport (regulated by SLC6A4) can impact resting heart rate due to its role in autonomic nervous system balance."
+              },
+              {
+                "title": "Stress Tolerance and Recovery",
+                "description": "The gene is closely tied to serotonin transport, affecting how quickly the heart and body recover from stress."
+              }
+            ],
+            "about": [
+              "The SLC6A4 Heart Score is an indicator of how variations in the SLC6A4 gene — which encodes the serotonin transporter — may influence cardiovascular health, particularly in relation to stress response, heart rate regulation, and emotional well-being."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "comt",
+        "symbol": "COMT",
+        "full_name": "Catechol-O-Methyltransferase",
+        "summary": "cognitive functions like memory and decision-making, linked to executive .......",
+        "score": 58,
+        "accent": "#17B8A6",
+        "narrative": [
+          "Your COMT genotype score of 58% points to a moderate rate of dopamine clearance in the prefrontal cortex. This gene governs how quickly catecholamines are broken down, shaping working memory and executive function.",
+          "A mid-range score often means you hold focus well under ordinary conditions but may notice your edge dulling during sustained pressure. Structured breaks and steady sleep help keep prefrontal dopamine in its productive window."
+        ],
+        "about": [
+          "COMT encodes an enzyme that degrades dopamine, adrenaline and noradrenaline. Its activity level influences memory, decision-making, pain perception and how the body metabolises stress hormones."
+        ],
+        "strengths": [
+          {
+            "label": "Brain",
+            "percent": 81.4
+          },
+          {
+            "label": "Heart",
+            "percent": 64.3
+          },
+          {
+            "label": "Liver",
+            "percent": 77.12
+          }
+        ],
+        "weaknesses": [
+          {
+            "label": "Skin",
+            "percent": 41.6
+          },
+          {
+            "label": "Eyes",
+            "percent": 38.9
+          }
+        ]
+      },
+      {
+        "id": "oxtr",
+        "symbol": "OXTR",
+        "full_name": "Oxytocin Receptor Gene",
+        "summary": "social behavior, empathy, and stress response.",
+        "score": 82,
+        "accent": "#5DD400",
+        "narrative": [
+          "Your OXTR genotype score of 82% indicates efficient oxytocin receptor signalling. This supports social bonding, empathy and the calming response that follows positive social contact.",
+          "A high score suggests you recover from social stress readily and derive genuine physiological benefit from connection. Protecting time for meaningful contact is a real lever on your stress load."
+        ],
+        "about": [
+          "OXTR encodes the receptor for oxytocin, the hormone central to bonding, trust and social recognition. Receptor sensitivity shapes empathy, attachment style and the buffering effect of social support on stress."
+        ],
+        "strengths": [
+          {
+            "label": "Brain",
+            "percent": 88.2
+          },
+          {
+            "label": "Heart",
+            "percent": 84.05
+          },
+          {
+            "label": "intestine",
+            "percent": 79.6
+          }
+        ],
+        "weaknesses": [
+          {
+            "label": "Teeth",
+            "percent": 44.1
+          }
+        ]
+      },
+      {
+        "id": "drd4",
+        "symbol": "DRD4",
+        "full_name": "Dopamine Receptor D4",
+        "summary": "novelty seeking, attention, and reward response.",
+        "score": 71,
+        "accent": "#7A4BFF",
+        "narrative": [
+          "Your DRD4 genotype score of 71% reflects a moderately strong dopamine receptor response. This shapes how strongly you register reward and how much novelty you seek out.",
+          "Scores in this band often pair good motivation with a taste for variety. Building routines that supply small, regular wins keeps that drive working for you rather than scattering it."
+        ],
+        "about": [
+          "DRD4 encodes a dopamine receptor concentrated in the prefrontal cortex. Variants in its repeat region are studied in relation to novelty seeking, attention regulation and reward sensitivity."
+        ],
+        "strengths": [
+          {
+            "label": "Brain",
+            "percent": 75.3
+          },
+          {
+            "label": "Heart",
+            "percent": 70.1
+          }
+        ],
+        "weaknesses": [
+          {
+            "label": "Skin",
+            "percent": 47.8
+          },
+          {
+            "label": "Eyes",
+            "percent": 49.2
+          }
+        ]
+      },
+      {
+        "id": "maoa",
+        "symbol": "MAOA",
+        "full_name": "Monoamine Oxidase A",
+        "summary": "aggression, impulse control, and emotional regulation.",
+        "score": 54,
+        "accent": "#FF8A73",
+        "narrative": [
+          "Your MAOA genotype score of 54% indicates a moderate rate of monoamine breakdown. This enzyme clears serotonin, dopamine and noradrenaline, so its pace influences emotional reactivity.",
+          "A mid-range score suggests ordinary emotional regulation with some sensitivity when you are tired or under strain. Consistent sleep and aerobic activity both help stabilise monoamine turnover."
+        ],
+        "about": [
+          "MAOA encodes an enzyme that breaks down monoamine neurotransmitters. Its activity level has been studied in relation to impulse control, aggression and emotional regulation."
+        ],
+        "strengths": [
+          {
+            "label": "Brain",
+            "percent": 66.4
+          },
+          {
+            "label": "Liver",
+            "percent": 72.9
+          }
+        ],
+        "weaknesses": [
+          {
+            "label": "Heart",
+            "percent": 45.3
+          },
+          {
+            "label": "Skin",
+            "percent": 39.7
+          }
+        ]
+      },
+      {
+        "id": "htr2a",
+        "symbol": "HTR2A",
+        "full_name": "Serotonin 2A Receptor",
+        "summary": "influences mood, anxiety, and risk for depression.",
+        "score": 49,
+        "accent": "#23C4E8",
+        "narrative": [
+          "Your HTR2A genotype score of 49% sits just below the moderate band, indicating reduced serotonin 2A receptor efficiency. This receptor shapes mood, anxiety and sleep architecture.",
+          "A lower score suggests you may be more sensitive to mood dips and disrupted sleep during stressful periods. Regular light exposure, exercise and stress reduction all support serotonergic signalling."
+        ],
+        "about": [
+          "HTR2A encodes the serotonin 2A receptor, densely expressed in the cortex. It is central to mood regulation, perception and sleep, and is a primary target of several classes of psychiatric medication."
+        ],
+        "strengths": [
+          {
+            "label": "intestine",
+            "percent": 61.2
+          }
+        ],
+        "weaknesses": [
+          {
+            "label": "Brain",
+            "percent": 42.1
+          },
+          {
+            "label": "Heart",
+            "percent": 47.6
+          },
+          {
+            "label": "Eyes",
+            "percent": 35.4
+          }
+        ]
+      }
+    ],
+    "hormones": [
+      {
+        "id": "dopamine",
+        "name": "Dopamine",
+        "subtitle": "Motivation & Focus Hormone",
+        "score": 76,
+        "accent": "#FFD400",
+        "narrative": [
+          "Your dopamine genotype score of 76% indicates a moderately strong ability to produce and regulate dopamine, the neurotransmitter responsible for motivation, focus, and feelings of reward.",
+          "A score in this range suggests that while your dopamine system generally supports good drive and mental clarity, you may occasionally experience dips in motivation or focus during prolonged stress or mental fatigue.",
+          "Supporting your dopamine levels through balanced nutrition, regular physical activity, good sleep, and engaging in rewarding activities can help you maintain consistent energy and focus throughout the day."
+        ],
+        "about": [
+          "Dopamine influences motivation, focus, pleasure, learning, and mood regulation.",
+          "Casual: Helps you stay motivated, focused, and feel good after achieving goals.",
+          "Scientific: A neurotransmitter essential for motivation, attention, reward processing, and emotional balance.",
+          "Wellness-focused: Drives motivation, focus, positivity, and the satisfaction of achieving goals."
+        ]
+      },
+      {
+        "id": "cortisol",
+        "name": "Cortisol",
+        "subtitle": "Stress & Alertness Hormone",
+        "score": 62,
+        "accent": "#FF8A73",
+        "narrative": [
+          "Your cortisol genotype score of 62% indicates a moderate stress-response profile. Cortisol governs your daily energy curve, alertness on waking and how quickly you settle after a demand.",
+          "A score in this band usually means you handle ordinary stress well but may hold tension longer after intense or prolonged pressure. Protecting your wind-down window matters more for you than for most."
+        ],
+        "about": [
+          "Cortisol is the body's primary stress hormone, released on a daily rhythm that peaks shortly after waking and declines through the evening. It regulates blood sugar, inflammation and alertness."
+        ]
+      },
+      {
+        "id": "melatonin",
+        "name": "Melatonin",
+        "subtitle": "Sleep & Recovery Hormone",
+        "score": 48,
+        "accent": "#7A9BFF",
+        "narrative": [
+          "Your melatonin genotype score of 48% sits in the low band, suggesting your sleep-onset signalling is more easily disrupted than average, particularly by evening light.",
+          "Consistent sleep and wake times, dim light in the last hour before bed, and morning daylight exposure are the highest-leverage changes for a profile like yours."
+        ],
+        "about": [
+          "Melatonin is released by the pineal gland as ambient light falls, signalling the body to prepare for sleep. It sets the timing of the circadian rhythm rather than acting as a sedative."
+        ]
+      },
+      {
+        "id": "serotonin",
+        "name": "Serotonin",
+        "subtitle": "Mood & Balance Hormone",
+        "score": 69,
+        "accent": "#5DD400",
+        "narrative": [
+          "Your serotonin genotype score of 69% reflects moderate serotonergic capacity. Serotonin underpins mood stability, appetite regulation and the sense of calm satisfaction after effort.",
+          "At this level your baseline mood is generally steady, though it may become more changeable during periods of poor sleep or low daylight. Regular movement and daylight both support serotonin availability."
+        ],
+        "about": [
+          "Serotonin is a neurotransmitter that regulates mood, appetite, digestion and sleep. The large majority of the body's serotonin is produced in the gut, linking digestive health to emotional balance."
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "id": "hormone",
+        "title": "Hormone Regulation Score",
+        "subtitle": "Your body's genetic tendency for hormone balance.",
+        "icon": "molecule"
+      },
+      {
+        "id": "wellness",
+        "title": "Overall Wellness Profile",
+        "subtitle": "Your genetic snapshot of overall health.",
+        "icon": "pulse"
+      }
+    ],
+    "ranges": [
+      {
+        "band": "high",
+        "title": "High (80% – 100%)",
+        "description": "You may naturally feel more motivated, focused, and reward-driven."
+      },
+      {
+        "band": "moderate",
+        "title": "Moderate (50% – 79%)",
+        "description": "You may benefit from lifestyle habits that help boost and stabilize dopamine levels."
+      },
+      {
+        "band": "low",
+        "title": "Low (Below 50%)",
+        "description": "You may be prone to low motivation or mood dips; consistent routines and dopamine-supportive habits can help maintain balance."
+      }
+    ]
+  },
+  "phenotype": {
+    "overall_quality": 73,
+    "overview_title": "Blood Health Overview",
+    "overview_subtitle": "A detailed look at key blood metrics influencing your energy, immunity, and overall well-being.",
+    "sections": [
+      {
+        "id": "organ",
+        "title": "Organ Metrics",
+        "icon": "organ"
+      },
+      {
+        "id": "blood",
+        "title": "Blood Metrics",
+        "icon": "blood"
+      },
+      {
+        "id": "hormone",
+        "title": "Hormone",
+        "icon": "molecule"
+      }
+    ],
+    "chips": [
+      {
+        "title": "Red Blood Cell (RBC) Count",
+        "value": "4.8",
+        "unit": "million/µL",
+        "x": -0.98,
+        "y": -0.56,
+        "scale": 0.95
+      },
+      {
+        "title": "White Blood Cell (WBC) Count",
+        "value": "6,500",
+        "unit": "/µL",
+        "x": 0.0,
+        "y": 0.02,
+        "scale": 0.95
+      },
+      {
+        "title": "Blood Oxygen Saturation (SpO2)",
+        "value": "98",
+        "unit": "%",
+        "x": 1.0,
+        "y": -0.53,
+        "scale": 0.95
+      }
+    ],
+    "trend_cards": [
+      {
+        "id": "sugar",
+        "title": "Blood Sugar",
+        "value": "80",
+        "unit": "mg / dL",
+        "status": "normal",
+        "accent": "#FFA726",
+        "trend": [
+          0.3,
+          0.26,
+          0.31,
+          0.28,
+          0.36,
+          0.62,
+          0.86,
+          0.71,
+          0.52,
+          0.48,
+          0.55,
+          0.5
+        ]
+      },
+      {
+        "id": "pressure",
+        "title": "Blood Pressure",
+        "value": "102",
+        "secondary_value": "72",
+        "unit": "mmhg",
+        "status": "normal",
+        "accent": "#17B8A6",
+        "trend": [
+          0.24,
+          0.2,
+          0.28,
+          0.55,
+          0.7,
+          0.62,
+          0.74,
+          0.66,
+          0.58,
+          0.72,
+          0.88,
+          0.64
+        ]
+      }
+    ],
+    "metrics": [
+      {
+        "id": "hb",
+        "name": "Hemoglobin (Hb)",
+        "description": "Hemoglobin is a protein in red blood cells that carries oxygen throughout your body.",
+        "value": "14.5 g/dL",
+        "healthy_range": "13.5 - 17.5 g/dL",
+        "status": "optimal"
+      },
+      {
+        "id": "glucose",
+        "name": "Glucose (Fasting)",
+        "description": "Blood sugar levels affect metabolism and energy. Well-regulated glucose helps prevent fatigue.",
+        "value": "88 mg/dL",
+        "healthy_range": "70 - 99 mg/dL",
+        "status": "optimal"
+      },
+      {
+        "id": "platelet",
+        "name": "Platelet Count",
+        "description": "Platelets are essential for blood clotting and wound healing. Balanced levels prevent excessive bleeding or clotting issues.",
+        "value": "250,000/μL",
+        "healthy_range": "150,000-450,000/μL",
+        "status": "optimal"
+      },
+      {
+        "id": "wbc",
+        "name": "WBC Count",
+        "description": "WBCs are the body's defense system, fighting infections and inflammation. A strong count ensures a resilient immune response.",
+        "value": "5,500/μL",
+        "healthy_range": "4,500-11,000/μL",
+        "status": "moderate"
+      },
+      {
+        "id": "ldl",
+        "name": "LDL Cholesterol",
+        "description": "\"Bad\" cholesterol can build up in arteries, increasing heart disease risk. Maintaining healthy levels is essential.",
+        "value": "50 mg/dL",
+        "healthy_range": "<100 mg/dL",
+        "status": "moderate"
+      }
+    ]
+  },
+  "conditions": [
+    {
+      "id": "heart",
+      "organ": "Heart",
+      "title": "Heart Conditions Overview",
+      "condition_title": "Heart Attack (Myocardial Infarction)",
+      "score": 30,
+      "hero_asset": "assets/images/organ_heart.png",
+      "thumb_asset": "assets/images/thumb_heart.png",
+      "numbered": true,
+      "recommendation_title": "For individuals who have experienced a heart attack (myocardial infarction), it is crucial to follow these health recommendations:",
+      "recommendations": [
+        "Adopt a Heart-Healthy Diet – Eat more fruits, vegetables, whole grains, and lean proteins. Reduce salt, sugar, and unhealthy fats.",
+        "Regular Exercise – Engage in at least 30 minutes of moderate exercise (walking, cycling, swimming) most days of the week.",
+        "Manage Stress – Practice meditation, deep breathing, or yoga to keep stress levels in check.",
+        "Quit Smoking & Limit Alcohol – Avoid tobacco and limit alcohol intake to protect your heart.",
+        "Monitor Blood Pressure & Cholesterol – Regularly check your vitals and follow medical advice if needed.",
+        "Take Prescribed Medications – Follow your doctor's recommendations for heart health management.",
+        "Seek Immediate Help for Symptoms – If you experience chest pain, shortness of breath, or nausea, get medical help immediately."
+      ],
+      "risk_title": "Chronic Heart Disease Risk Assessment",
+      "risks": [
+        {
+          "name": "Mentzer",
+          "range": "12.3 - 15.5 secs",
+          "value": "16.7",
+          "tone": "amber"
+        },
+        {
+          "name": "HCV AntiBody",
+          "range": "< 0.389",
+          "value": "56.6",
+          "tone": "green"
+        },
+        {
+          "name": "Apolipoprotine A1",
+          "range": "12.3 - 15.5 secs",
+          "value": "14.9",
+          "tone": "red"
+        },
+        {
+          "name": "Prothorombine Time",
+          "range": "12.3 - 15.5 secs",
+          "value": "6.2",
+          "tone": "amber"
+        },
+        {
+          "name": "HCV AntiBody",
+          "range": "< 0.389",
+          "value": "26.0",
+          "tone": "green"
+        },
+        {
+          "name": "Immunoglobulim E2",
+          "range": "< 152.9 KUI/L",
+          "value": "69",
+          "tone": "red"
+        }
+      ],
+      "strengths": [
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        }
+      ],
+      "weaknesses": [
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        }
+      ],
+      "hotspots": [
+        {
+          "label": "View recovery phase details",
+          "target": "marker:Mentzer",
+          "x": 0.514,
+          "y": -0.605,
+          "width": 0.237,
+          "height": 0.069
+        }
+      ]
+    },
+    {
+      "id": "lungs",
+      "organ": "Lungs",
+      "title": "Lungs Conditions Overview",
+      "condition_title": "Lungs Condition",
+      "score": 66,
+      "hero_asset": "assets/images/organ_lungs.png",
+      "thumb_asset": "assets/images/thumb_lungs.png",
+      "numbered": false,
+      "recommendation_title": "Lungs Health Recommendation :",
+      "recommendations": [
+        "Maintaining healthy lungs is essential for overall well-being and vitality.",
+        "Eating a lung-friendly diet rich in fruits, vegetables, whole grains, and antioxidants to support respiratory health.",
+        "Avoiding smoking, air pollution, and harmful chemicals to protect lung function.",
+        "Staying active with regular aerobic exercise, such as walking, swimming, or cycling, to strengthen lung capacity.",
+        "Practicing deep breathing exercises and maintaining good."
+      ],
+      "risk_title": "Chronic lungs Disease Risk Assessment",
+      "risks": [
+        {
+          "name": "Mentzer",
+          "range": "12.3 - 15.5 secs",
+          "value": "16.7",
+          "tone": "amber"
+        },
+        {
+          "name": "HCV AntiBody",
+          "range": "< 0.389",
+          "value": "56.6",
+          "tone": "green"
+        },
+        {
+          "name": "Apolipoprotine A1",
+          "range": "12.3 - 15.5 secs",
+          "value": "14.9",
+          "tone": "red"
+        },
+        {
+          "name": "Prothorombine Time",
+          "range": "12.3 - 15.5 secs",
+          "value": "6.2",
+          "tone": "amber"
+        },
+        {
+          "name": "HCV AntiBody",
+          "range": "< 0.389",
+          "value": "26.0",
+          "tone": "green"
+        }
+      ],
+      "strengths": [
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        }
+      ],
+      "weaknesses": [
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        },
+        {
+          "label": "HCV Antibody",
+          "percent": 0.05
+        }
+      ],
+      "hotspots": [
+        {
+          "label": "View recovery phase details",
+          "target": "marker:Mentzer",
+          "x": 0.752,
+          "y": 0.0,
+          "width": 0.233,
+          "height": 0.073
+        }
+      ]
+    }
+  ],
+  "health": {
+    "title": "Health Conditions Overview",
+    "body_asset": "assets/images/body_figure.png",
+    "toggle": [
+      "Dopamine",
+      "Serotonin"
+    ],
+    "series": [
+      {
+        "id": "dopamine",
+        "title": "Dopamine Levels During Physical Activity",
+        "axis_label": "Meditation Stats",
+        "x_ticks": [
+          0,
+          20,
+          40,
+          60,
+          80,
+          100,
+          120
+        ],
+        "y_ticks": [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100
+        ],
+        "reference": 78,
+        "points": [
+          [
+            0,
+            78
+          ],
+          [
+            10,
+            95
+          ],
+          [
+            20,
+            80
+          ],
+          [
+            35,
+            57
+          ],
+          [
+            52,
+            83
+          ],
+          [
+            60,
+            82
+          ],
+          [
+            68,
+            76
+          ],
+          [
+            72,
+            80
+          ],
+          [
+            80,
+            58
+          ],
+          [
+            95,
+            88
+          ],
+          [
+            100,
+            51
+          ],
+          [
+            120,
+            67
+          ]
+        ],
+        "legend": [
+          {
+            "label": "Warm Up Phase",
+            "color": "#56E01B"
+          },
+          {
+            "label": "Peak Activity",
+            "color": "#F2331F"
+          },
+          {
+            "label": "Recovery Phace",
+            "color": "#F08A1E"
+          }
+        ]
+      },
+      {
+        "id": "serotonin",
+        "title": "Serotonin Levels During Physical Activity",
+        "axis_label": "Meditation Stats",
+        "x_ticks": [
+          0,
+          20,
+          40,
+          60,
+          80,
+          100,
+          120
+        ],
+        "y_ticks": [
+          50,
+          60,
+          70,
+          80,
+          90,
+          100
+        ],
+        "reference": 74,
+        "points": [
+          [
+            0,
+            72
+          ],
+          [
+            12,
+            86
+          ],
+          [
+            24,
+            74
+          ],
+          [
+            38,
+            63
+          ],
+          [
+            50,
+            79
+          ],
+          [
+            62,
+            90
+          ],
+          [
+            72,
+            84
+          ],
+          [
+            84,
+            66
+          ],
+          [
+            96,
+            73
+          ],
+          [
+            108,
+            60
+          ],
+          [
+            120,
+            81
+          ]
+        ],
+        "legend": [
+          {
+            "label": "Warm Up Phase",
+            "color": "#56E01B"
+          },
+          {
+            "label": "Peak Activity",
+            "color": "#F2331F"
+          },
+          {
+            "label": "Recovery Phace",
+            "color": "#F08A1E"
+          }
+        ]
+      }
+    ],
+    "summary": {
+      "title": "Hyperprolactinemia Score",
+      "subtitle": "From all projects",
+      "percent": 95,
+      "caption": "Based on Hormone",
+      "about_title": "ABOUT Hyperprolactinemia",
+      "about": [
+        "This condition is characterized by abnormally high levels of prolactin in the blood, which can result from various factors, including dopamine dysfunction, certain medications, or tumors of the pituitary gland (prolactinomas)."
+      ]
+    },
+    "immune_title": "Immune system strength",
+    "immune_score": 30,
+    "guidance_title": "Immune System Recommendation:",
+    "guidance_intro": [
+      "Maintaining a strong immune system is essential for overall health and protection against illness.",
+      "We recommend:"
+    ],
+    "guidance_items": [
+      "Eating a balanced diet rich in fruits, vegetables, and proteins.",
+      "Staying hydrated and getting enough sleep (7–8 hours).",
+      "Regular exercise to boost immunity and reduce stress."
+    ],
+    "strengths": [
+      {
+        "label": "HCV Antibody",
+        "percent": 0.05
+      },
+      {
+        "label": "HCV Antibody",
+        "percent": 0.05
+      },
+      {
+        "label": "HCV Antibody",
+        "percent": 0.05
+      },
+      {
+        "label": "HCV Antibody",
+        "percent": 0.05
+      },
+      {
+        "label": "HCV Antibody",
+        "percent": 0.05
+      },
+      {
+        "label": "HCV Antibody",
+        "percent": 0.05
+      }
+    ],
+    "weaknesses": [
+      {
+        "label": "HCV Antibody",
+        "percent": 0.05
+      },
+      {
+        "label": "HCV Antibody",
+        "percent": 0.05
+      },
+      {
+        "label": "HCV Antibody",
+        "percent": 0.05
+      },
+      {
+        "label": "HCV Antibody",
+        "percent": 0.05
+      },
+      {
+        "label": "HCV Antibody",
+        "percent": 0.05
+      },
+      {
+        "label": "HCV Antibody",
+        "percent": 0.05
+      }
+    ],
+    "hotspots": [
+      {
+        "label": "Chronic lungs problem",
+        "target": "condition:lungs",
+        "x": -0.982,
+        "y": -0.508,
+        "width": 0.343,
+        "height": 0.126,
+        "pulse": true
+      },
+      {
+        "label": "Heart condition",
+        "target": "condition:heart",
+        "x": 0.005,
+        "y": -0.333,
+        "width": 0.093,
+        "height": 0.094,
+        "pulse": true
+      },
+      {
+        "label": "Left side neck recovery",
+        "target": "marker:Neck Recovery",
+        "x": 0.988,
+        "y": -0.877,
+        "width": 0.429,
+        "height": 0.231,
+        "pulse": true
+      },
+      {
+        "label": "Knee problems",
+        "target": "marker:Knee Mobility",
+        "x": -0.982,
+        "y": 0.416,
+        "width": 0.343,
+        "height": 0.07,
+        "pulse": true
+      }
+    ]
+  },
+  "markers": [
+    {
+      "id": "mentzer",
+      "organ": "Mentzer",
+      "title": "Mentzer",
+      "unit": "mcg/dl",
+      "tint": "amber",
+      "score": 36.7,
+      "status_label": "optimal",
+      "marker_label": "Moderate",
+      "marker_value": "36.7",
+      "impacted_by": "LDL Cholesterol",
+      "bands": [
+        {
+          "label": "Very Low",
+          "range_text": "< 4.46 mcg/dL",
+          "color": "#FF4B3E"
+        },
+        {
+          "label": "Low",
+          "range_text": "< 8.46 mcg/dL",
+          "color": "#FF9E8A"
+        },
+        {
+          "label": "Moderate",
+          "range_text": "4.46 mcg/dL",
+          "color": "#FFE500"
+        },
+        {
+          "label": "Optimal",
+          "range_text": "< 6.46 mcg/dL",
+          "color": "#D6D520"
+        },
+        {
+          "label": "High",
+          "range_text": "88.46 -9.2 mcg/dL",
+          "color": "#8CC63F"
+        },
+        {
+          "label": "Very High",
+          "range_text": "<10.46 -22.0 mg/dL",
+          "color": "#2FB457"
+        }
+      ],
+      "impacted_parameters": [
+        {
+          "title": "Diet (saturated fat, sugar intake)",
+          "description": "Limit saturated fats and sugars to keep arteries clear and cholesterol in check."
+        },
+        {
+          "title": "Physical activity levels",
+          "description": "Regular exercise strengthens the heart and improves circulation"
+        },
+        {
+          "title": "Body weight and waist circumference",
+          "description": "Maintaining a healthy weight reduces strain on the heart and lowers risk factors."
+        }
+      ],
+      "about": [
+        "LDL Cholesterol, often referred to as \"bad cholesterol,\" plays a key role in heart health. Elevated LDL levels can lead to the buildup of plaque in arteries, increasing the risk of heart disease and stroke. Key functions and impacts of LDL cholesterol in the body include"
+      ]
+    }
+  ],
+  "marker_template": {
+    "unit": "mcg/dl",
+    "tint": "amber",
+    "status_label": "optimal",
+    "marker_label": "Moderate",
+    "impacted_by": "{marker}",
+    "bands": [
+      {
+        "label": "Very Low",
+        "range_text": "< 4.46 mcg/dL",
+        "color": "#FF4B3E"
+      },
+      {
+        "label": "Low",
+        "range_text": "< 8.46 mcg/dL",
+        "color": "#FF9E8A"
+      },
+      {
+        "label": "Moderate",
+        "range_text": "4.46 mcg/dL",
+        "color": "#FFE500"
+      },
+      {
+        "label": "Optimal",
+        "range_text": "< 6.46 mcg/dL",
+        "color": "#D6D520"
+      },
+      {
+        "label": "High",
+        "range_text": "88.46 -9.2 mcg/dL",
+        "color": "#8CC63F"
+      },
+      {
+        "label": "Very High",
+        "range_text": "<10.46 -22.0 mg/dL",
+        "color": "#2FB457"
+      }
+    ],
+    "impacted_parameters": [
+      {
+        "title": "Diet (saturated fat, sugar intake)",
+        "description": "Limit saturated fats and sugars to keep {marker} readings inside the optimal band."
+      },
+      {
+        "title": "Physical activity levels",
+        "description": "Regular exercise steadies {marker} and improves circulation."
+      },
+      {
+        "title": "Sleep and recovery",
+        "description": "Seven to eight hours of sleep keeps {marker} from drifting out of range."
+      }
+    ],
+    "about": [
+      "{marker} is tracked here because it moves with the organ scores shown on the previous screen. Readings inside the optimal band suggest the underlying system is compensating well.",
+      "Values outside the band are not a diagnosis on their own — they are read together with the other markers in this panel and with your recent trend."
+    ]
+  }
+}

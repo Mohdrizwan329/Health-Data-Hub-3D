@@ -1,0 +1,25 @@
+// Barrel for the shared widget library.
+export 'charts/activity_chart.dart';
+export 'charts/needle_gauge.dart';
+export 'charts/score_gauge.dart';
+export 'charts/spline_chart.dart';
+export 'common/ambient_background.dart';
+export 'common/blood_table.dart';
+export 'common/expandable_parameter_card.dart';
+export 'common/gradient_border_card.dart';
+export 'common/hub_header.dart';
+export 'common/hub_section_card.dart';
+export 'common/marker_chip.dart';
+export 'common/mode_tabs.dart';
+export 'common/narrative_card.dart';
+export 'common/organ_score_grid.dart';
+export 'common/ranges_legend.dart';
+export 'common/recommendation_card.dart';
+export 'common/risk_assessment_list.dart';
+export 'common/score_stage.dart';
+export 'common/score_summary_card.dart';
+export 'common/segmented_toggle.dart';
+export 'common/section_heading.dart';
+export 'common/status_pill.dart';
+export 'common/trend_metric_card.dart';
+export 'painters/score_gauge_painter.dart';
